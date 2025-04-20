@@ -1,0 +1,39 @@
+
+a,
+a:visited{
+    color:blue;
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+a:active{
+    color:orange;
+}
+
+
+a:focus{
+    background-color: lightgrey;
+}
+
+.cont_comida{
+    background-color: yellow;
+    
+}
+
+.style_milanesa{
+    color: red;
+
+}
+
+.style_pan{
+
+    color: saddlebrown;
+}
+
+
+
+
+
